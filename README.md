@@ -1,8 +1,11 @@
 Bebeto - Assistente Virtual Inteligente 🤖
+
 Descrição
+
 Bebeto é um assistente virtual inteligente construído com Streamlit e LangChain que pode interagir com diferentes tipos de conteúdo (sites, vídeos do YouTube, PDFs, CSVs e arquivos de texto) e responder perguntas usando modelos de linguagem como Groq e OpenAI.
 
 Funcionalidades
+
 📄 Suporte a múltiplos tipos de arquivo:
 Sites
 Vídeos do YouTube
