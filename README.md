@@ -15,6 +15,7 @@ Groq:
 - llama-3.3-70b-versatile
 - gemma2-9b-it
 - mixtral-8x7b-32768
+  
 OpenAI:
 - GPT-4o-mini
 - GPT-4o
