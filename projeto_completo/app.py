@@ -110,7 +110,7 @@ def sidebar():
         if tipo_arquivo == 'Site':
             arquivo = st.text_input('Digite a URL do site:')
         if tipo_arquivo == 'Youtube':
-            arquivo = st.text_input('Digite a URL do video:')
+            arquivo = st.text_input('Digite o ID do video:')
         if tipo_arquivo == 'Pdf':
            arquivo = st.file_uploader('Faça o upload do arquivo pdf:', type=['pdf'])
         if tipo_arquivo == 'Csv':
