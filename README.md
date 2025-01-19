@@ -7,6 +7,7 @@ Bebeto é um assistente virtual inteligente construído com Streamlit e LangChai
 Funcionalidades
 
 📄 Suporte a múltiplos tipos de arquivo:
+
 Sites
 Vídeos do YouTube
 PDFs
