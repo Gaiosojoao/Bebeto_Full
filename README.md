@@ -44,8 +44,11 @@ Requisitos
 Estrutura do Projeto:
 
   projeto_completo/
+
   ├── app.py              # Arquivo principal
+
   ├── loaders.py          # Funções para carregar diferentes tipos de arquivo
+
   └── requirements.txt    # Dependências do projeto
 
   Interface Web do Bebeto:
