@@ -11,6 +11,7 @@ CSVs
 Arquivos TXT
 
 🤖 Modelos de IA disponíveis:
+
 Groq:
 - llama-3.3-70b-versatile
 - gemma2-9b-it
@@ -37,6 +38,7 @@ Requisitos
 - Outras dependências listadas em requirements.txt
   
 Estrutura do Projeto:
+
   projeto_completo/
   ├── app.py              # Arquivo principal
   ├── loaders.py          # Funções para carregar diferentes tipos de arquivo
